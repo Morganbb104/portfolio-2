@@ -163,10 +163,12 @@ h2{
     margin-top: 20px;
 }
 .project-card:hover{
-    background-color: rgb(196, 54, 54); 
+    background-color: rgb(133, 187, 62); 
     color:rgb(128, 25, 25);
 }
-
+.subtext:hover{
+ font-size: larger;
+}
 
 .project-container{
     display: flex;
