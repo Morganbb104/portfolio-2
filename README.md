@@ -7,7 +7,7 @@ My Portfolio is made by html, css,javascript.In addition to header and footer, t
 
 
 ## Link to Live Preview
-https://morganbb104.github.io/Portfolio/
+https://morganbb104.github.io/portfolio-2/
 
 
 ## Images from Live Site
