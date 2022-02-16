@@ -13,7 +13,7 @@ https://morganbb104.github.io/portfolio-2/
 ## Update
 
 1. 3 personal side projects + 1 group project
-2. linkin link added
+2. linkedin link added
 
 
 ## Images from Live Site
